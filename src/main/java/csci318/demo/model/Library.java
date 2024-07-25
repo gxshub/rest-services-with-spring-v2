@@ -2,7 +2,7 @@ package csci318.demo.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 public class Library {

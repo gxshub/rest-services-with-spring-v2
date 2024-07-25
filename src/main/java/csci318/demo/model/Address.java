@@ -1,6 +1,6 @@
 package csci318.demo.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 public class Address {
