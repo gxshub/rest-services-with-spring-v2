@@ -16,6 +16,9 @@ Click "GENERATE", download and extract the zip file. Open the project folder in 
 
 This sample project includes a simple library application.
 Understand each layer in the project repository.
+![spring boot architecture](./spring-boot-architecture2.png)
+
+(Image from https://dzone.com/articles/spring-boot-architecture-and-workflow)
 
 ### Demonstration: Sample REST Requests
 After running the Spring application, interact with it by using REST requests. 
