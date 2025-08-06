@@ -16,8 +16,9 @@ Click "GENERATE", download and extract the zip file. Open the project folder in 
 
 This sample project includes a simple library application.
 Understand each layer in the project repository.
-![spring boot architecture](./spring-boot-architecture2.png)
-
+<div style="background-color:white; width:550px;">
+   <img src="./spring-boot-architecture2.png" alt="spring boot architecture"/>
+</div>
 (Image from https://dzone.com/articles/spring-boot-architecture-and-workflow)
 
 ### Demonstration: Sample REST Requests
